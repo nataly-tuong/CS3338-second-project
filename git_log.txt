@@ -1,0 +1,52 @@
+commit cdada29c6db7a4ee0fd19ed51569fd99737583de
+Merge: a96532d ef04d92
+Author: Nataly Tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 4 13:16:11 2026 -0700
+
+    Resolving merge conflicts
+
+commit ef04d9246dac4cdad0dac6fb41d74d27eb8b923a
+Author: Nataly Tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 4 13:09:44 2026 -0700
+
+    Added my favorite game, League of Legends
+
+commit a96532d25424b05b91cf8fb081248434812ae51c
+Author: Nataly Tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 4 13:08:18 2026 -0700
+
+    Added a new div stating that my favorite food is pasta
+
+commit bd84e18074396db0a87b1002e1ee246cf43b56cd
+Merge: d299f6a 5fd1f73
+Author: Nataly Tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 4 13:04:30 2026 -0700
+
+    Merge branch 'main' of https://github.com/nataly-tuong/CS3338-second-project
+
+commit d299f6a04586a3807e7c8eebccdc34f594d8c9c8
+Author: Nataly Tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 4 13:03:02 2026 -0700
+
+    Added a README.md
+
+commit 5fd1f73f8c1e8a4d762682ed67b4d6c81049de4f
+Merge: 1d2bfc0 be8ce39
+Author: nataly-tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 4 13:00:27 2026 -0700
+
+    Merge pull request #1 from nataly-tuong/info-fill
+    
+    Filled in index.html with my name and favorite hobby
+
+commit be8ce39c445a91d7f7d5e474c3ef1b2dc93910dd
+Author: Nataly Tuong <152276169+nataly-tuong@users.noreply.github.com>
+Date:   Fri Sep 4 12:52:47 2026 -0700
+
+    Filled in index.html with my name and favorite hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
